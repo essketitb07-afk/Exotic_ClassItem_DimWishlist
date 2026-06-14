@@ -3,88 +3,160 @@ description:Based on engineeeeer´s Exotic Class Item Planner  (updated 2024-08-
 Insperation/copy from JxP how thay structured ther DIM Wishlist
 //Hunter-Relativism
 
-//Hoil/Cyrt
-//note:[Rank]:5 / [Role]: survivability | tag: PVE
+//Hoil & Cyrt
+//note:[Rank]:5 / [Role]: Roam / [Notes]: survivability | tag: PVE
 dimwishlist:item=2809120022&perks=1476923953,3751917994
 
-//Hoil/synth
-///note:[Rank]:5 / [Role]: Grappel meele | tag: PVE
+//Hoil & synth
+///note:[Rank]:5 / [Role]: DMG / [Notes]: Grappel melee | tag: PVE
 dimwishlist:item=2809120022&perks=1476923953,1476923956
 
-//Hoil/Verity
-//note:[Rank]:5 / [Role]: Grenade Dmg | tag: PVE
+//Hoil & Verity
+//note:[Rank]:5 / [Role]: Rome-Grenade DMG / [Notes]: Grenade Dmg | tag: PVE
 dimwishlist:item=2809120022&perks=1476923953,1476923957
 
-//Galanor/Star-Eater
-//note:[Rank]:5 / [Role]: Maximum Super | tag: PVE
+//Galanor & Star-Eater
+//note:[Rank]:5 / [Role]: Rome / [Notes]: Maximum Super | tag: PVE
 dimwishlist:item=2809120022&perks=3751917998,1476923955
 
-//Foetracer/Star-Eater
-//note:[Rank]:5 / [Role]: Super and weapon Dmg | tag: PVE
+//Foetracer-Star & Eater
+//note:[Rank]:5 / [Role]: DMG / [Notes]: Super and weapon Dmg | tag: PVE
 dimwishlist:item=2809120022&perks=3751917997,1476923955
 
-//Foetracer/Verity
-//note:[Rank]:5 / [Role]: Grenade and weapon Dmg | tag: PVE
+//Foetracer & Verity
+//note:[Rank]:5 / [Role]: DMG / [Notes]: Grenade and weapon Dmg | tag: PVE
 dimwishlist:item=2809120022&perks=3751917997,1476923957
 
-//Caliban/Liar
-//note:[Rank]:5 / [Role]: Combination Blow | tag: PVE
+//Caliban & Liar
+//note:[Rank]:5 / [Role]: Rome / [Notes]: Combination Blow | tag: PVE
 dimwishlist:item=2809120022&perks=3751917996,3751917992
 
-//Renewal/Star-Eater
-//note:[Rank]:5 / [Role]: DR team and super dmg | tag: PVE
+//Renewal & Star-Eater
+//note:[Rank]:5 / [Role]: DMG / [Notes]: DR team and super dmg | tag: PVE
 dimwishlist:item=2809120022&perks=3751917995,1476923955
 
-//Hoil/Star-Eater
-//note:[Rank]:4 / [Role]: Ability spam and Super dmg | tag: PVE
+//Hoil & Star-Eater
+//note:[Rank]:4 / [Role]: Roam-Dmg / [Notes]: Ability spam and Super dmg | tag: PVE
 dimwishlist:item=2809120022&perks=1476923953,1476923955
 
-//Caliban/Synth
-//note:[Rank]:4 / [Role]: Powerd meele add clear | tag: PVE
+//Caliban & Synth
+//note:[Rank]:4 / [Role]: Roam / [Notes]: Powerd melee add clear | tag: PVE
 dimwishlist:item=2809120022&perks=3751917996,1476923956
 
-//Ophidian/Wormhusk 
-//note:[Rank]:1 / [Role]: Handling and Healing on dodge | tag: PVP
+//Ophidian & Wormhusk 
+//note:[Rank]:1 / [Role]:N/A  / [Notes]: Extra Handling and Healing on dodge | tag: PVP
 dimwishlist:item=2809120022&perks=1476923954,3751917991
 
-//Ophidian/Coyote
-//note:[Rank]:1 / [Role]: Handling and Extra dodge | tag: PVP
+//Ophidian & Coyote
+//note:[Rank]:1 / [Role]:N/A  / [Notes]: / [Notes]: Extra Handling and Extra dodge | tag: PVP
 dimwishlist:item=2809120022&perks=1476923954,3751917990
 
 
-//Not done. Warlock and titan soon
+//Titan-Stoicism
+
+//Hoil & Star-Eater
+//note:[Rank]:5 / [Role]: Roam-Dmg / [Notes]: Abilety Spam Super DMG | tag: PVE
+dimwishlist:item=266021826&perks=1476923953,1476923955
+
+//Hoil & Synth
+//note:[Rank]:5 / [Role]: DMG / [Notes]: Grapel melee | tag: PVE
+dimwishlist:item=266021826&perks=1476923953,1476923956
+
+//Hoil & Verity
+//note:[Rank]:5 / [Role]: Roam-Grenade DMG / [Notes]: Grenade spam | tag: PVE
+dimwishlist:item=266021826&perks=1476923953,1476923957
+
+//Hoil & Contact
+//note:[Rank]:5 / [Role]: Roam / [Notes]: Melee makes lightning | tag: PVE
+dimwishlist:item=266021826&perks=1476923953,3573490504
+
+//Hoil & Scars
+//note:[Rank]:5 / [Role]: Roam-Support / [Notes]: Ability spam and Healing on weapon kills matching super | tag: PVE
+dimwishlist:item=266021826&perks=1476923953,3573490503
+
+//Hoil & Horn
+//note:[Rank]:5 / [Role]: Roam / [Notes]: Barricade make explosion | tag: PVE
+dimwishlist:item=266021826&perks=1476923953,3573490506
+
+//Severance & Synth
+//note:[Rank]:5 / [Role]: Roam / [Notes]: power melee kills make explosion | tag: PVE
+dimwishlist:item=266021826&perks=3573490509,1476923956
+
+//Severance & Contact
+//note:[Rank]:5 / [Role]: DMG / [Notes]: power melee kills make explosion and lightning | tag: PVE
+dimwishlist:item=266021826&perks=3573490509,3573490504
+
+//Eternal-Warrior & Star-Eater
+//note:[Rank]:5 / [Role]: Roam / [Notes]: power melee kills make explosion and lightning | tag: PVE
+dimwishlist:item=266021826&perks=3573490511,1476923955
+
+//Bear & Verity
+//note:[Rank]:5 / [Role]: Roam / [Notes]: Glave-Sword gard gives super | tag: PVE
+dimwishlist:item=266021826&perks=3573490505,1476923957
+
+//Bear & Armamentarium
+//note:[Rank]:5 / [Role]: Roam / [Notes]: Glave-Sword gard gives super 2 grenades | tag: PVE
+dimwishlist:item=266021826&perks=3573490505,3573490504
+
+//Ophidian & AlphaLupi
+//note:[Rank]:1 / [Role]: N/A / [Notes]: Extra Handling and healing on bnarricade ues | tag: PVP
+dimwishlist:item=266021826&perks=1476923954,3573490505
+
+//Ophidian & Scar
+//note:[Rank]:3 / [Role]: N/A / [Notes]: Extra Handling and solar explosion on bnarricade ues | tag: PVP
+dimwishlist:item=266021826&perks=1476923954,3573490503
+
+//Hoarfrost & Horn
+//note:[Rank]:4 / [Role]: N/A / [Notes]: Barricade becomes a wall of Stasis crystals that slows nerby targets and solar explosion on bnarricade ues | tag: PVP
+dimwishlist:item=266021826&perks=3573490508,3573490506
+
+//Hoarfrost & Alpha-Lupi
+//note:[Rank]:3 / [Role]: N/A / [Notes]: Barricade becomes a wall of Stasis crystals that slows nerby targets and heal on bnarricade ues | tag: PVP
+dimwishlist:item=266021826&perks=3573490508,3573490505
 
 
-//Warlock
+//Warlock-Solipsism
 
-dimwishlist:item=2273643087&perks=183430253,1476923957  Osmiomancy/
-dimwishlist:item=2273643087&perks=183430253,183430246  Osmiomancy/
-dimwishlist:item=2273643087&perks=1476923953,1476923957  Hoil/
-dimwishlist:item=2273643087&perks=183430253,183430249  Osmiomancy/
-dimwishlist:item=2273643087&perks=183430250,1476923955  Apotheosis/
-dimwishlist:item=2273643087&perks=183430253,1476923955  Osmiomancy/
-dimwishlist:item=2273643087&perks=183430255,183430249  Filaments/
-dimwishlist:item=2273643087&perks=183430252,183430247  Necrotic/
-dimwishlist:item=2273643087&perks=183430250,183430246  Apotheosis/
-dimwishlist:item=2273643087&perks=183430252,1476923955  Necrotic/
-dimwishlist:item=2273643087&perks=183430253,183430254  Osmiomancy/
-dimwishlist:item=2273643087&perks=183430250,183430254  Apotheosis/
-dimwishlist:item=2273643087&perks=183430252,1476923956  Necrotic/
+//Apotheosis & Star-Eater
+//note:[Rank]:5 / [Role]: DMG / [Notes]: Super DMG and after super abiliey spam | tag: PVE
+dimwishlist:item=2273643087&perks=183430250,1476923955
+
+//Apotheosis & Harmony
+//note:[Rank]:5 / [Role]: Roam / [Notes]: Super Spam and after super abiliey spam | tag: PVE
+dimwishlist:item=2273643087&perks=183430250,183430254
+
+//Hoil & Star-Eater
+//note:[Rank]:5 / [Role]: DMG / [Notes]: Ability spam and super dmg | tag: PVE
+dimwishlist:item=2273643087&perks=1476923953,1476923955
+
+//Hoil & Synth
+//note:[Rank]:5 / [Role]: Roam / [Notes]: Ability spam and empowerd melee when surrounded | tag: PVE
+dimwishlist:item=2273643087&perks=1476923953,1476923956
+
+//Hoil & Verity
+//note:[Rank]:5 / [Role]: Roam-DMG / [Notes]: Grenade dmg | tag: PVE
 dimwishlist:item=2273643087&perks=1476923953,1476923957
 
-//Titan
+//Hoil & Swarm
+//note:[Rank]:5 / [Role]: Roam / [Notes]: Tredling spam | tag: PVE
+dimwishlist:item=2273643087&perks=1476923953,183430246
 
-dimwishlist:item=266021826&perks=1476923952,1476923956  Assassin/Synthoceps 4
-dimwishlist:item=266021826&perks=3573490507,1476923955  /Star-Eater
-dimwishlist:item=266021826&perks=3573490506,3573490503  Horn/Scars
-dimwishlist:item=266021826&perks=1476923953,1476923955  Hoil/Star-Eater
-dimwishlist:item=266021826&perks=1476923953,3573490503  Hoil/Scars
-dimwishlist:item=266021826&perks=3573490506,1476923956  Horn/Synthoceps
-dimwishlist:item=266021826&perks=3573490505,3573490500  Bear/Armamentarium
-dimwishlist:item=266021826&perks=1476923953,3573490504  Hoil/Contact
-dimwishlist:item=266021826&perks=3573490506,3573490504  Horn/
-dimwishlist:item=266021826&perks=3573490509,1476923956  Severance/
-dimwishlist:item=266021826&perks=1476923953,3573490500  Hoil/
-dimwishlist:item=266021826&perks=1476923953,1476923957  Hoil/
-dimwishlist:item=266021826&perks=3573490509,3573490504  Severance/
-dimwishlist:item=266021826&perks=1476923953,1476923956  Hoil/
+//Necrotic & Claw
+//note:[Rank]:5 / [Role]: Roam / [Notes]: poison on melee | tag: PVE
+dimwishlist:item=2273643087&perks=183430252,183430247
+
+//Osmiomancy & Varity
+//note:[Rank]:5 / [Role]: Roam-DMG / [Notes]: Grenade regen and DMG | tag: PVE
+dimwishlist:item=2273643087&perks=183430253,1476923957
+
+//Ophidian & Claw
+//note:[Rank]:1 / [Role]: N/A / [Notes]: Extra Handling and Extra melee | tag: PVP
+dimwishlist:item=2273643087&perks=1476923954,183430247
+
+//Ophidian & Vesper
+//note:[Rank]:1 / [Role]: N/A / [Notes]: Extra Handling and Rifts periodically release Arc shockwaves | tag: PVP
+dimwishlist:item=2273643087&perks=1476923954,183430251
+
+//Filaments & Vesper
+//note:[Rank]:4 / [Role]: N/A / [Notes]: Empowering Rifts grant you Devour and periodically release Arc shockwaves | tag: PVP
+dimwishlist:item=2273643087&perks=183430255,183430251
