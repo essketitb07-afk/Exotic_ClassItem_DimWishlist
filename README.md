@@ -1,4 +1,4 @@
-Github Raw Link: [https://github.com/essketitb07-afk/Exotic_ClassItem_DimWishlist/edit/main/DimWishlist](https://raw.githubusercontent.com/essketitb07-afk/Exotic_ClassItem_DimWishlist/refs/heads/main/DimWishlist)
+Github Raw Link: [Exotic Class Items DIM Wish list](https://raw.githubusercontent.com/essketitb07-afk/Exotic_ClassItem_DimWishlist/refs/heads/main/DimWishlist)
 
 ______________________________________________
 Credit: engineeeeer
